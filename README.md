@@ -1,4 +1,3 @@
-# Techno-Economy
 
 If territory is not only land or border but the place where resources, identities, and meanings are contested, **techno-economy** is one of its most intense dimensions, as it articulates capital and technology in a relationship that shapes territories, bodies, and modes of existence. There, the extractive logic of capital confronts practices of reciprocity and sustainability that sustain life.
 
