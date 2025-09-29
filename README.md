@@ -41,3 +41,6 @@ Here, techno-economy is not just **technical analysis** but a **field of epistem
 > What technologies are developed and in service of what economies?  
 > Who controls the data, the algorithms, and the infrastructures that demarcate digital and material territories?  
 > Which ways of life are legitimized and which expelled from the map?
+
+<a href="https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui" target="_blank">Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness</a>
+
